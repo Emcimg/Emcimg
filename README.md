@@ -1,6 +1,7 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRkYWFiMWtpc3NtamszZXUzbDBsenNyZGQxcTF4M3d5cmJkY3ZvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XgGsoQDb1ocVIdYS2X/giphy.gif" width="500"/> 
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRkYWFiMWtpc3NtamszZXUzbDBsenNyZGQxcTF4M3d5cmJkY3ZvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XgGsoQDb1ocVIdYS2X/giphy.gif" width="100"/> 
 # Bienvenid@ al Github de Eduardo Martínez Castejón
 ![Banner de Eduardo Martínez](giphy.gif)
+
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kali](https://img.shields.io/badge/Kali-%23268BEE.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
