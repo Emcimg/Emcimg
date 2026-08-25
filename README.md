@@ -1,5 +1,13 @@
-## Hi there 👋
-
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRkYWFiMWtpc3NtamszZXUzbDBsenNyZGQxcTF4M3d5cmJkY3ZvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XgGsoQDb1ocVIdYS2X/giphy.gif" width="500"/> 
+# Bienvenid@ al Github de Eduardo Martínez Castejón
+![Banner de Eduardo Martínez](giphy.gif)
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kali](https://img.shields.io/badge/Kali-%23268BEE.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white&logoSize=auto)
+![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
 <!--
 **Emcimg/Emcimg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
