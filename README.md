@@ -3,8 +3,6 @@
  # WELCOME to Eduardo's GITHUB | PORTFOLIO <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRkYWFiMWtpc3NtamszZXUzbDBsenNyZGQxcTF4M3d5cmJkY3ZvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XgGsoQDb1ocVIdYS2X/giphy.gif" width="50"/>
 
 
-### 🏅 CREDENCIALES OFICIALES — THE BRIDGE
-![The Bridge](https://img.shields.io/badge/The%20Bridge-Cybersecurity%20Bootcamp-212121?style=for-the-badge)
 
 
 <div align="center">
@@ -13,7 +11,7 @@
 
 ### 🔐 Cybersecurity Student | Aspiring Security Analyst
 
-**Criminology Graduate · Cybersecurity Enthusiast · Lifelong Learner**
+**Criminology Graduate ·Cybersecurity Master's · Lifelong Learner**
 
 Building technical skills through hands-on labs, security research and practical projects.
 
