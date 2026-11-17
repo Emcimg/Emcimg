@@ -24,10 +24,9 @@ Building technical skills through hands-on labs, security research and practical
 <a href="https://www.linkedin.com/in/eduardo-mart%C3%ADnez-castej%C3%B3n-879569429/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;
 
 </div>
----
+
 
 ## 🧑‍💻 About Me
 
