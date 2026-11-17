@@ -2,7 +2,6 @@
 
  # WELCOME to Eduardo's GITHUB | PORTFOLIO <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRkYWFiMWtpc3NtamszZXUzbDBsenNyZGQxcTF4M3d5cmJkY3ZvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XgGsoQDb1ocVIdYS2X/giphy.gif" width="50"/>
 
-# 🛡️ Cybersecurity Skills
 
 ### 🏅 CREDENCIALES OFICIALES — THE BRIDGE
 ![The Bridge](https://img.shields.io/badge/The%20Bridge-Cybersecurity%20Bootcamp-212121?style=for-the-badge)
@@ -10,7 +9,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Emcimg
+# 👋 Hi, I'm Eduardo Martinez
 
 ### 🔐 Cybersecurity Student | Aspiring Security Analyst
 
@@ -95,8 +94,8 @@ My goal is to develop the skills needed to work in cybersecurity, particularly i
 - [x] Cybersecurity fundamentals
 - [x] Linux fundamentals
 - [x] Networking fundamentals
-- [ ] Network reconnaissance and scanning
-- [ ] OSINT investigation methodologies
+- [x] Network reconnaissance and scanning
+- [x] OSINT investigation methodologies
 - [ ] Vulnerability assessment
 - [ ] Python scripting for cybersecurity
 - [ ] Security monitoring and log analysis
@@ -130,7 +129,7 @@ Technical research and documentation of CVEs, security weaknesses and mitigation
 - 🎓 Criminology Graduate.
 
 **Cybersecurity Training**
-- 🔐 Cybersecurity studies and practical training.
+- 🔐 Cybersecurity studies and practical training at TheBridge.
 - 🌐 Cisco Junior Cybersecurity Analyst learning pathway.
 - 🧪 Hands-on cybersecurity labs and independent research.
 
