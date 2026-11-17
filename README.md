@@ -19,6 +19,20 @@ Building technical skills through hands-on labs, security research and practical
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emcimg)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A192F?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://github.com/Emcimg)
 
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/eduardo-mart%C3%ADnez-castej%C3%B3n-879569429/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Emcimg">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+</div>
+
+
 </div>
 
 ---
