@@ -4,9 +4,8 @@
        alt="Eduardo Martínez - Cybersecurity">
 </div>
 
-![Banner de Eduardo Martínez](giphy.gif)
 
- # WELCOME to Eduardo's GITHUB | PORTFOLIO <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRkYWFiMWtpc3NtamszZXUzbDBsenNyZGQxcTF4M3d5cmJkY3ZvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XgGsoQDb1ocVIdYS2X/giphy.gif" width="50"/>
+# WELCOME to Eduardo's GITHUB | PORTFOLIO <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRkYWFiMWtpc3NtamszZXUzbDBsenNyZGQxcTF4M3d5cmJkY3ZvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XgGsoQDb1ocVIdYS2X/giphy.gif" width="50"/>
 
 
 
