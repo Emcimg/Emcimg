@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="./banner.gif"
+  <img src="./eduardo-martinez-cybersecurity-banner-animated.gif"
        width="100%"
        alt="Eduardo Martínez - Cybersecurity">
 </div>
