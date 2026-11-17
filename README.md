@@ -25,7 +25,9 @@ Building technical skills through hands-on labs, security research and practical
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<div align="center">
+</div>
+
+---
 
 
 ## 🧑‍💻 About Me
